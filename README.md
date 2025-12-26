@@ -16,7 +16,7 @@ If it is a Nintendo Switch Pro Controller with just ONE STEP from fully featured
 I feel like I am telling a horror story. But anyway, if anybody has the "A" variant, please test its behavior under Linux if you have time to complement my findings.  
 ## Follow up: Engineering Nonsense
 Alright, this is where the true engineering nonsense introduces itself. 
-Let's first forgot its manual hosted on their website is splitted into KP70-1 and KP70-2, and each of them is a whopping ~156MB, with just one poster and one page.  
+Let's first forgot its manual hosted on their website is splitted into [KP70-1](https://game.cdn.betophall.com/data/video/fun/user%20manual-KP70%20elite%20game%20controller%20ver.1.pdf) and [KP70-2](https://game.cdn.betophall.com/data/video/fun/user%20manual-KP70%20elite%20game%20controller%20ver.2.pdf), and each of them is close to 160MB, with just one poster and one page. I suspect the only reason why they split the manual in this way is probably they made their printer out of memory.  
 Next, out of curiosity, I used gamepadla's python script to test the dongle's polling rate after it's claimed by `hid-nintendo`.  
 And the result...was around 71Hz.  
 71Hz.  
