@@ -10,7 +10,30 @@ When connected via its dongle, it was shortly picked up by hid-nintendo, no matt
 Hardwaretester HTML cannot detect it, but for literally everything else, it can be detected. The joysticks was a bit off in steam, but I used it on ZZZ without steam input kicking in and the buttons, joysticks, triggers functions fine as a "Nintendo Switch Pro Controller" with the usual A/B button swap. Both steam and a yuzu fork instantly recognized ITS GYRO with nothing needed on the controller side. No drifting if stationary. Only missing rumble.   
 Since then my mind was blown. I've used Flydigi Apex 4, ZD Ultimate Legend, and Bigbigwon Rainbow 3. Their dongles are all picked up by xpad and may or may not work as a Xbox360 controller. But recognized as a Nintendo Switch Pro Controller? Without tweaks and just PnP? Working gyro just missing rumble?   
 ## Customer service talking gibberish
-That gave me loads of suspicion about them "not support" Linux as shown from the following excerpt of a chat between me and their customer service.   
+That gave me loads of suspicion about them "not support" Linux as shown from the following excerpt of a chat between me and their customer service, on wechat, in Chinese. The excerpt is recovered because I have blacklisted and deleted this customer service.  
+(Me)Radeon RX9070XT  
+12月8日 20:41:30  
+谢谢!另外再帮我问一下为什么鲲鹏70B在没有官方支持的Linux操作系统下会被识别成switch pro手柄且除震动以外的所有功能包括体感全部可用吗  
+Radeon RX9070XT  
+用接收器的情况下  
+12月8日 20:41:44  
+游戏少女通通@北通外设  
+12月8日 20:42:09  
+不支持连接这个系统的哈抱歉  
+Radeon RX9070XT  
+12月8日 20:53:06  
+但你们的产品的表现明显不像是“不支持” 啊,如果真的不支持不会被识别成switch pro而不是Xbox控制器还能丝滑用原生体感的,只是少震动。我觉得像是故意的。你能再帮我去问问吗麻烦了  
+游戏少女通通@北通外设  
+12月8日 21:01:48  
+咱们的手柄是不支持连接这个系统的哈, 没有专门做过兼容适配,因为不兼容不适配这个系统,所以会出现连接不上、无法正常识别、按键错乱等等情况,包括但不限于以上的问题哈,这个无法通过调节设置解决的哈实在抱歉  
+Radeon RX9070XT  
+12月12日 04:04:02  
+且不说我没有任何“解决”“调节设置”的倾向,只是想了解这么做背后的缘由。而你,甚至都不愿意叫一声Linux。  
+Follow up:  
+十分抱歉呢 我们手柄的话是只能连接win系统的电脑使用的哈  
+(After a while)  
+Me: 可是你们的这个手柄也支持安卓和switch连接的啊  
+游戏少女通通@北通外设：鲲鹏70是可以连接手机和ns的  
 If Beitong really did absolutely nothing regarding Linux, then the controller should be a finicky Xbox360 Controller via its dongle.   
 If it is a Nintendo Switch Pro Controller with just ONE STEP from fully featured instead, then I think the odds of Beitong did it deliberately is >99%.  
 I feel like I am telling a horror story. But anyway, if anybody has the "A" variant, please test its behavior under Linux if you have time to complement my findings.  
